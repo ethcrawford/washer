@@ -1,0 +1,5 @@
+node_modules/
+src/**
+!src/README.md
+dist/**
+!dist/MINIFIED
